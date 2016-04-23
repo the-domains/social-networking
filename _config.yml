@@ -1,0 +1,28 @@
+name: SOCIAL NETWORKING
+favicon: null
+layout_spectrum: 0.3674473010469228
+typography_spectrum: 0.08884159801527858
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8262603979092091
+  lightness: 0.2789233489893377
+  saturation: 0.0720747378654778
+  rhythmicContrast: 0.4494609199464321
+purpose: []
