@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SOCIAL NETWORKING]]></title>
+        <description><![CDATA[SOCIAL NETWORKING]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 06 May 2016 16:04:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[10 Laws of Social Media Marketing]]></title>
+            <description><![CDATA[<article><h1>10 Laws of Social Media Marketing</h1><p>Do you use social media to market your business? There's bit of etiquette you should be familiar with. Here are 10 points. Read more: http://www.entrepreneur.com/article/218160 Join Entrepreneur Network http://entrepreneurnetwork.com Watch more videos at: http://www.entrepreneur.com/video Follow Us On Twitter: https://twitter.com/entrepreneur</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/34b6a36511e08f8bba258e6ad1281e37ce2e9c7e.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=--s2sfm9JkI</link>
+            <guid isPermaLink="false">5e0c8365-51c0-44d6-87ee-cb74b735fd5b</guid>
+            <pubDate>Fri, 06 May 2016 16:04:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
